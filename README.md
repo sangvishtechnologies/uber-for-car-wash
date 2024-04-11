@@ -35,7 +35,7 @@ Integrate a chat function or in-app message system to ensure users can connect w
 
 Consider giving referral programs or loyalty benefits to encourage user engagement and app downloads.
 
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“uberforcarwash.png" src="https://github.com/sangvishtechnologies/uber-for-car-wash/blob/main/images/uber-for-car-wash-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“uberforcarwash.png" src="https://github.com/sangvishtechnologies/uber-for-car-wash/blob/main/images/uber-for-car-wash.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div> 
 
 Step-by-Step Guide to Building Your Car Cleaning App:
 ### Market Research and Planning:
